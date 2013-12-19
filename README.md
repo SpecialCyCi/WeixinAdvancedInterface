@@ -16,8 +16,10 @@ Or install it yourself as:
     $ gem install weixin_advanced_interface
 
 ## Structure
-1.WeixinInterface -- 微信高级接口的详细功能
-2.WeixinOauth     -- 微信网页oauth
+
+ 1. WeixinInterface -- 微信高级接口的详细功能
+ 2. WeixinOauth     -- 微信网页oauth
+
 详细文档请参考微信高级接口官方文档
 
 ## Usage
